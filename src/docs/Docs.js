@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Navigation from './Navigation';
 import ComponentPage from './ComponentPage';
 import componentData from '../../config/componentData';
 
-export default class Docs extends React.Component {
+export default class Docs extends Component {
   constructor(props) {
     super(props);
     this.state = {
