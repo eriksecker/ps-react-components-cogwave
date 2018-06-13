@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloWorld from '../../../components/HelloWorld/HelloWorld';
+import HelloWorld from 'ps-react-components-cogwave/HelloWorld/HelloWorld';
 
 /** custom message */
 export default function ExampleHelloWorld() {
