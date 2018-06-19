@@ -1,0 +1,4 @@
+$ npm set init.author.name "Erik Secker"
+$ npm set init.author.email "stuff@erikmanstudios.com"
+$ npm set init.author.url "http://cognitivewave.com/"
+$ npm adduser
