@@ -7,5 +7,5 @@ A library of React components created in "Creating Reusable React Components" on
 npm install ps-react-components-cogwave
 ```
 
-#Docs
+# Docs
 [Component documentation](https://eriksecker.github.io/ps-react-components-cogwave)
