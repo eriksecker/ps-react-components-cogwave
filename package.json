@@ -1,6 +1,23 @@
 {
   "name": "ps-react-components-cogwave",
   "version": "0.1.0",
+	"main": "./lib/index.js",
+	"engines": {
+		"node": ">=4.0.0"
+	},
+	"author": {
+		"name": "Erik Secker",
+		"email": "stuff@cognitivewave.com",
+		"url": "http://www.cognitivewave.com"
+	},
+	"files": [ "lib" ],
+	"keywords": [
+		"components",
+		"react",
+		"react-component",
+		"toolkit",
+		"pluralsight"
+	],
   "private": true,
   "dependencies": {
     "ajv": "^6.5.1",
