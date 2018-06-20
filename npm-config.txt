@@ -2,3 +2,7 @@ $ npm set init.author.name "Erik Secker"
 $ npm set init.author.email "stuff@cognitivewave.com"
 $ npm set init.author.url "http://cognitivewave.com/"
 $ npm adduser
+
+...
+
+$ npm publish
