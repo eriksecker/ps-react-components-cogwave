@@ -18,7 +18,6 @@
 		"toolkit",
 		"pluralsight"
 	],
-  "private": true,
   "dependencies": {
     "ajv": "^6.5.1",
     "autoprefixer": "7.1.6",
