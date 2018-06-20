@@ -1,6 +1,6 @@
 {
 		"name": "ps-react-components-cogwave",
-		"version": "0.1.0",
+		"version": "1.0.0",
 		"main": "./lib/index.js",
 		"engines": {
 				"node": ">=4.0.0"
