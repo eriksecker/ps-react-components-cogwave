@@ -6,3 +6,8 @@ $ npm adduser
 ...
 
 $ npm publish
+
+
+...
+
+$ npm version major
